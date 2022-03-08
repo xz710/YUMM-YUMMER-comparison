@@ -1,5 +1,3 @@
-setwd("C:/Users/Xinyi/Desktop/omics/YUMM YUMMER comparison")
-
 
 library(tidyverse)
 library(rhdf5)
